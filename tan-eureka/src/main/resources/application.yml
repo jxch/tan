@@ -1,0 +1,8 @@
+server:
+  port: 11001
+
+spring:
+  application:
+    name: capital-eureka
+  profiles:
+    active: prod
